@@ -1,4 +1,4 @@
 # demo
 first git repo.
 <br>
-author - nirujogi nisanth
+author - Nirujogi Nisanth
